@@ -23,3 +23,4 @@ Premier League Match Predictor เป็นเว็บแอปพลิเค�
 - **ชวิรธร ชื่นชม**
 
 ![image](https://github.com/user-attachments/assets/b05de0d0-3a8b-414f-b5dc-8ab2772f2ca8)
+![image](https://github.com/user-attachments/assets/58b007ad-6a7e-45c8-a776-4bb7b1beb9e1)
