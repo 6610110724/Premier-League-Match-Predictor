@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 3. Run the Application
 ```bash
-python app.py
+python EPL_prediction.py
 ```
 จากนั้นเปิดเบราว์เซอร์และไปที่ `http://127.0.0.1:8050/`
 ## How It Works
